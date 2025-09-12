@@ -19,30 +19,6 @@
 
 ---
 
-## 🚀 Projects
-
-### **1. Spark – EdTech Platform**
-**Tech:** React, Node.js, MongoDB, JWT  
-- Built an EdTech platform connecting students and instructors.  
-- Implemented role-based access and secure authentication with JWT.  
-- Enabled course browsing, enrollment, and progress tracking.  
-**Links:** [GitHub](#) — [Live Demo](#)  
-
-### **2. Closerrr.com – Landing Page**
-**Tech:** React, Tailwind, Framer Motion, GSAP  
-- Developed a responsive, animated landing page for the Closerrr app.  
-- Implemented scroll animations and interactive UI components.  
-- Optimized performance for mobile and desktop devices.  
-**Links:** [GitHub](#) — [Live Demo](#)  
-
-### **3. PackMate-AI – Travel Packing Assistant (In Progress)**
-**Tech:** React, Node.js, MySQL, JWT, LangChain  
-- Full-stack travel packing app providing AI-driven packing suggestions.  
-- Built secure user accounts with JWT authentication and MySQL database.  
-- Integrated Groq AI to generate personalized packing recommendations.  
-**Links:** [GitHub](https://github.com/anshuuu680/PackMate-AI)  
-
----
 
 ## 🏆 Certifications & Achievements
 
