@@ -9,7 +9,6 @@
 🌐 Portfolio: [Portfolio](https://portfolioanshu-ashy.vercel.app)
 
 
-
 ---
 
 ## 🛠 Technical Skills
@@ -23,14 +22,6 @@
 ---
 
 
-## 🏆 Certifications & Achievements
-
-- Generative AI for Node.js: OpenAI & LangChain  
-- React, Next.js, and TypeScript Certification  
-- Solved **300+ Problems** on [LeetCode](https://leetcode.com/)  
-- Solved **150+ Problems** on [GeeksForGeeks](https://www.geeksforgeeks.org/)  
-
----
 
 ## 📊 GitHub Stats
 
