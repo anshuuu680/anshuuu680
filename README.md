@@ -5,7 +5,7 @@
 📫 Reach me at: [ap214893@gmail.com](mailto:ap214893@gmail.com) | +91-9131086950  
 🔗 LinkedIn: [linkedin.com/in/anshu.in](https://linkedin.com/in/anshu.in)  
 🔗 GitHub: [github.com/anshu](https://github.com/anshu)  
-🌐 Portfolio: [(https://portfolioanshu-ashy.vercel.app/)](#)
+🌐 Portfolio: [Portfolio](https://portfolioanshu-ashy.vercel.app)
 
 ---
 
