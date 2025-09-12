@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Anshu Patidar
 
 **MERN Stack Developer | AI & Full-Stack Enthusiast**
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=anshuuu680)
+
 
 📫 Reach me at: [ap214893@gmail.com](mailto:ap214893@gmail.com) 
 🔗 LinkedIn: [linkedin.com/in/anshu.in](https://linkedin.com/in/anshu.in)  
