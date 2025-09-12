@@ -8,7 +8,6 @@
 🔗 GitHub: [github.com/anshu](https://github.com/anshu)  
 🌐 Portfolio: [Portfolio](https://portfolioanshu-ashy.vercel.app)
 
-![Visitor Count](https://profile-counter.glitch.me/anshuuu680/count.svg)
 
 
 ---
