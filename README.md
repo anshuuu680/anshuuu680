@@ -3,7 +3,7 @@
 **MERN Stack Developer | AI & Full-Stack Enthusiast**
 
 📫 Reach me at: [ap214893@gmail.com](mailto:ap214893@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/anshu.in](https://linkedin.com/in/anshu.in)  
+🔗 LinkedIn: [linkedin.com/in/anshu.in](https://www.linkedin.com/in/anshu-patidar-478652228/)  
 🔗 GitHub: [github.com/anshu](https://github.com/anshuuu680)  
 
 ---
