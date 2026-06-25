@@ -6,7 +6,6 @@
 🔗 LinkedIn: [linkedin.com/in/anshu.in](https://linkedin.com/in/anshu.in)  
 🔗 GitHub: [github.com/anshu](https://github.com/anshuuu680)  
 
-
 ---
 
 ## 🛠 Technical Skills
