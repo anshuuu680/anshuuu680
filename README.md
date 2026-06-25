@@ -4,8 +4,8 @@
 
 📫 Reach me at: [ap214893@gmail.com](mailto:ap214893@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/anshu.in](https://linkedin.com/in/anshu.in)  
-🔗 GitHub: [github.com/anshu](https://github.com/anshu)  
-🌐 Portfolio: [Portfolio](https://portfolioanshu-ashy.vercel.app)
+🔗 GitHub: [github.com/anshu](https://github.com/anshuuu680)  
+
 
 ---
 
